@@ -4,18 +4,14 @@
 
 ## NoSQL vs. SQL
 
-We began this lesson by comparing and contrasting Relational Databases/SQL with the various NoSQL database options that are out there, and outlined examples for when we would want to use each. 
+We began this lesson by comparing and contrasting relational/SQL databases with the NoSQL databases. 
 
-The 4 different kinds of NoSQL Databases are: 
+The four different kinds of NoSQL databases are: 
 
 * Document Stores
 * Key-Value Stores
 * Column Stores
 * Graph Databases
-
-### RDDs and Hadoop/Spark
-
-We also took some time to dig into another data storage paradigm, **_Resilient Distributed Datasets_**, or **_RDDs_** such as Spark and Hadoop. We explored how these databases use redundancy to ensure that data is **_Fault Tolerant_**, and examined how the driving idea behind these paradigms , **_MapReduce_**, gives us great speed ups when working with truly massive datasets in a distributed manner. 
 
 
 ## MongoDB
